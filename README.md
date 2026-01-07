@@ -105,7 +105,6 @@ MINDSHIELD-HACKATHON/
 │
 └── README.md
 
-
 ---
 
 ## ▶️ How to Run the Project Locally
@@ -219,5 +218,6 @@ Prarthana B Gawarawad
 S. MD. Adil Ahmed
 
 Veena Shammukh
+
 
 
